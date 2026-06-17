@@ -81,8 +81,8 @@ I am Al-bashir Abdi, a Computer Science student at Strathmore University with a 
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 💼 **Professional Network:** [[Link to your LinkedIn, Portfolio, or CV]](https://www.linkedin.com/in/al-bashir-abdi-638b10290/)
+- 📧 **Direct Contact:**albaeinstein63@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
