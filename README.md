@@ -2,13 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm him 👋
+I am Al-bashir Abdi, a Computer Science student at Strathmore University with a strong passion for building intelligent and impactful software solutions. I enjoy solving real-world problems through technology, particularly by combining software engineering, data analysis, and emerging technologies to create systems that improve decision-making and everyday life.
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+* 🔭 **Current Focus:** I am currently developing a web-based Flood Anomaly Detection System as my final-year project, aimed at improving early flood warning and disaster preparedness through real-time monitoring and anomaly detection. I also work on full-stack web applications and machine learning projects involving data-driven insights.
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+* 🌱 **Learning & Exploration:** I am actively exploring Machine Learning, Artificial Intelligence, cloud-based application development, and modern web technologies such as Next.js and advanced database systems. I am also expanding my knowledge of data analytics and predictive modeling techniques.
+
+* ⚡ **Core Interests:** My primary interests include Machine Learning, Data Science, Software Engineering, Full-Stack Web Development, and Intelligent Decision Support Systems. I am particularly excited by technologies that transform complex data into actionable insights and help address societal and environmental challenges.
+
 
 ---
 
